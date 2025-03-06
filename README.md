@@ -52,6 +52,9 @@ The project consists of the following classes:
 **Advanced Features**:
 - The system does not support advanced features like market orders, stop orders, or order cancellation.
 
+## Sample Output 
+
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/729df16f-3af4-4db2-81f8-9fdff575b421" />
 
 ## How to Run
 
