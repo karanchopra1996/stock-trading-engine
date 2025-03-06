@@ -58,7 +58,8 @@ The project consists of the following classes:
 
 ## How to Run
 
-1. Open the project in VS Code.
-2. Compile and run the code using the terminal:
+1. Clone the project
+2. Open the project in IDE
+3. Compile and run the code using the terminal:
    - javac src/StockTradingEngine.java
    - java -cp src StockTradingEngine
