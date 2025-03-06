@@ -23,5 +23,5 @@ This project implements a **real-time stock trading engine** that matches buy an
 
 1. Open the project in VS Code.
 2. Compile and run the code using the terminal:
-   javac src/StockTradingEngine.java
-   java -cp src StockTradingEngine
+   - javac src/StockTradingEngine.java
+   - java -cp src StockTradingEngine
